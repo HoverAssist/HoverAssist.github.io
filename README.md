@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/HoverAssist/HoverAssist.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HoverAssist/HoverAssist.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# HoverAssist
+# Status
+ hoverAssist is a program developed by saisaaketh
+ hoverAssist is currently in devlopment
+# Features
+1. hoverAssit Is a Program when devloped completely can also download videos from youtube and it can also convert them into mp3
+2. have You Ever Forgot to join your meeting or your online classes,If yes then HoverAssist may help you join classes an meeting at particular time Automatically if the system is turned on
+# Security
+1. It is a very secure Application
+2. any coversation between You and Hover will not be stored and alo your voice will not be stored
+3. It only connects to internet to only join meetings and playing music etc 
+4. It takes over microphone only for the speechrecongnition purpose
+5. It acces your video Camera for the face recongnition purpose
+# More Upcoming Devlopments
+1. Look HoverAssist Not only downloads videos and join your meetings but it also plays music and you can also watch some movies or any videos on youtube
+2. it can Also Read your mailbox
+3. it Can Open any aplication and open websites
+4. it is OpenSource
+5. it works perfectly on windows
